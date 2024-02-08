@@ -16,8 +16,8 @@ Hello! I'm Marat Ulakaev, a passionate developer and technology enthusiast. My G
 - [1000hands](1000hands.net): Digitization of inventory plans
 
 ## 📫 Connect with Me:
-- LinkedIn: [](https://www.linkedin.com/in/marat-ulakaev-7842b9a3/)
-- Email: [](ulakaev05@gmail.com)
-- Instagram: maratulakaev
+- LinkedIn: [marat-ulakaev](https://www.linkedin.com/in/marat-ulakaev-7842b9a3/)
+- Email: ulakaev05@gmail.com
+- Instagram: ulakaevmarat
 
 👨‍💻 I would be delighted to have you in my portfolio! Let me know if you have interesting ideas or projects for collaboration.
